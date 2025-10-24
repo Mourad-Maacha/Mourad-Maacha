@@ -14,9 +14,9 @@ Aspiring **Security Operations Center (SOC) Analyst** focused on leveraging open
 ## 🧠 Skills & Associated Projects
 | Skill | Associated Project |
 |-----------------------------------------------|---------------------------------------------------|
-| SIEM Implementation and Log Analysis | [Wazuh SIEM Lab](https://github.com/mouradmaacha/wazuh-siem-lab) |
-| Network Traffic Monitoring and Attack Detection | [Wazuh SIEM Lab](https://github.com/mouradmaacha/wazuh-siem-lab) |
-| Incident Response and Threat Containment | [Wazuh SIEM Lab](https://github.com/mouradmaacha/wazuh-siem-lab) |
+| SIEM Implementation and Log Analysis | [Wazuh SIEM Lab](https://github.com/Mourad-Maacha/Wazuh-SIEM-Lab-) |
+| Network Traffic Monitoring and Attack Detection | [Wazuh SIEM Lab](https://github.com/Mourad-Maacha/Wazuh-SIEM-Lab-) |
+| Incident Response and Threat Containment | [Wazuh SIEM Lab](https://github.com/Mourad-Maacha/Wazuh-SIEM-Lab-) |
 
 
 ---
