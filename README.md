@@ -56,7 +56,7 @@ Aspiring **Security Operations Center (SOC) Analyst** focused on leveraging open
 ---
 
 ## 💼 Projects
-- [**Wazuh SIEM Lab**](https://github.com/mouradmaacha/wazuh-siem-lab): Designed and implemented an open-source SIEM environment for real-time log monitoring and threat detection using Wazuh, Sysmon, and Kali Linux.
+- [Wazuh SIEM Lab](https://github.com/Mourad-Maacha/Wazuh-SIEM-Lab-): Designed and implemented an open-source SIEM environment for real-time log monitoring and threat detection using Wazuh, Sysmon, and Kali Linux.
 
 ---
 
