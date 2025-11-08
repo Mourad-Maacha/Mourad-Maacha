@@ -14,9 +14,8 @@ Aspiring **Security Operations Center (SOC) Analyst** focused on leveraging open
 ## 🧠 Skills & Associated Projects
 | Skill | Associated Project |
 |-----------------------------------------------|---------------------------------------------------|
-| SIEM Implementation and Log Analysis | [Wazuh SIEM Lab](https://github.com/Mourad-Maacha/Wazuh-SIEM-Lab-) |
-| Network Traffic Monitoring and Attack Detection | [Wazuh SIEM Lab](https://github.com/Mourad-Maacha/Wazuh-SIEM-Lab-) |
-| Incident Response and Threat Containment | [Wazuh SIEM Lab](https://github.com/Mourad-Maacha/Wazuh-SIEM-Lab-) |
+| SIEM Implementation, Log Analysis, Network Traffic Monitoring and Attack Detection | [Wazuh SIEM Lab](https://github.com/Mourad-Maacha/Wazuh-SIEM-Lab-) |
+| Complete Secure Network System Design and Configuration | [Secure Enterprise Network Design](https://github.com/Mourad-Maacha/Secure-Enterprise-Network-Design-) |
 
 
 ---
@@ -57,7 +56,7 @@ Aspiring **Security Operations Center (SOC) Analyst** focused on leveraging open
 
 ## 💼 Projects
 - [Wazuh SIEM Lab](https://github.com/Mourad-Maacha/Wazuh-SIEM-Lab-): Designed and implemented an open-source SIEM environment for real-time log monitoring and threat detection using Wazuh, Sysmon, and Kali Linux.
-
+- [Secure Enterprise Network Design](https://github.com/Mourad-Maacha/Secure-Enterprise-Network-Design-): Designed and implemented a comprehensive enterprise network in Cisco Packet Tracer.
 ---
 
 ## 📫 Contact
